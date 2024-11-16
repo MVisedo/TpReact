@@ -18,11 +18,11 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone  https://github.com/MVisedo/TpReact.git
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repositorio
+   cd TpReact
 
 3. Instala las dependencias:
    ```bash
@@ -38,6 +38,6 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
   https://imag.bonviveur.com/hamburguesa-clasica.jpg
 - **Papas**
   ```bash
-  https://comedera.com/wp-content/uploads/sites/9/2022/11/papas-fritas-con-queso-cheddar-PG_PFCQCY30320002.jpg?w=4096
+  https://comedera.com/wp-content/uploads/sites/9/2022/11/papas-fritas-con-queso-cheddar-PG_PFCQCY30320002.jpg
 
   
